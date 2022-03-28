@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Bektas",
+      "salary": "5000",
+      "department": "Math"
+    },
+    {
+      "id": 2,
+      "name": "Josh",
+      "salary": "2000",
+      "department": "Engineer"
+    },
+    {
+      "id": 3,
+      "name": "Jo",
+      "salary": "4500",
+      "department": "Software"
+    },
+    {
+      "id": 4,
+      "name": "Somebody",
+      "salary": "priceless",
+      "department": "jobless"
+    }
+  ]
+}
